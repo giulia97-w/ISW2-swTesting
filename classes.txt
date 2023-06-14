@@ -1,0 +1,6 @@
+org.apache.bookkeeper.bookie.BufferedChannel
+org.apache.bookkeeper.bookie.EntryKey
+org.apache.bookkeeper.client.impl.LedgerEntriesImpl
+
+org.apache.openjpa.openjpa.lib.util.ClassUtil
+org.apache.openjpa.openjpa.jdbc.identifier.QualifiedDBIdentifier
