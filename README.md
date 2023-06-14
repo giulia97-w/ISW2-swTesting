@@ -4,7 +4,7 @@ Consegna del report per il modulo Sw Testing.
 
 ## Link Utili
 ### Bookkeeper
-GitHub: https://github.com/giulia97-w/bookkeeper-1 \n
+GitHub: https://github.com/giulia97-w/bookkeeper-1 <br>
 Pit, Jacoco and ba-dua reports: https://github.com/giulia97-w/bookkeeper-1/actions/runs/5257015128\\\
 SonarCloud: https://sonarcloud.io/project/overview?id=giulia97-w bookkeeper-1\\\
 ### OpenJPA
