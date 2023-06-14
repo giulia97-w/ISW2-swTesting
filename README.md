@@ -3,7 +3,7 @@
 Consegna del report per il modulo Sw Testing. 
 
 ## Link Utili
-### Bookkeeper id=giulia97-w_bookkeeper-1)
+### Bookkeeper
 GitHub: https://github.com/giulia97-w/bookkeeper-1 <br>
 Pit, Jacoco and ba-dua reports: https://github.com/giulia97-w/bookkeeper-1/actions/runs/5257015128 <br>
 
